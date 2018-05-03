@@ -2,7 +2,7 @@
 
 ## About
 
-## prerequisite
+## Prerequisite
 
 ## How to use
 
